@@ -1,0 +1,8 @@
+class PaymentCard:
+    def __init__(self, opening_balance):
+        # write code here
+        card = PaymentCard = 30
+
+    def __str__(self):
+
+   
